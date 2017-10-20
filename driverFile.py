@@ -1,8 +1,4 @@
-# USAGE
-# python driverFile.py --image images/example_01.jpg \
-#	--prototxt MobileNetSSD_deploy.prototxt.txt --model MobileNetSSD_deploy.caffemodel
-
-# import the necessary packages
+#please read readmd file for execute the program 
 import numpy as np
 import argparse
 import cv2
